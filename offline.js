@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1554915715,
+	"version": 1585585888,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -12,11 +12,18 @@
 		"images/thing-sheet0.png",
 		"images/troph-sheet0.png",
 		"images/particles.png",
+		"images/trigger-sheet0.png",
+		"media/code.m4a",
+		"media/code.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"c2mp-net.js",
+		"c2mp-peer.js",
+		"c2mp.js",
+		"waker.js"
 	]
 }
